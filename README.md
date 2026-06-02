@@ -2,8 +2,8 @@
 
 <H1 ALIGN=CENTER> Experiment-6: Implementation of Semantic Analysis </H1>
 
-### Name: Boopathy S
-### Register Number: 2305003002
+### Name: Dhanush G
+### Register Number: 2305002006
 
 ## Aim: 
 
